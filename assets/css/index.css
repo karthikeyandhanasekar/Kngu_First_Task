@@ -52,3 +52,17 @@ svg {
     border-bottom: solid;
     border-color: rgb(255, 0, 0);
 }
+.postal
+{
+    background-image: url('../images/flowerbg2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 65vh;
+    text-align: justify;
+
+}
+.faceicon
+{
+    width: 10%;
+}
