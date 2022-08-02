@@ -1,0 +1,21 @@
+.btn-success {
+    background-color: rgb(77, 201, 77);
+    font-weight: 500;
+}
+
+nav>div>ul>li {
+    font-weight: 500;
+}
+
+input {
+    border: none;
+    width: 70%;
+}
+
+input :focus {
+    outline: none;
+}
+
+svg {
+    cursor: pointer;
+}
