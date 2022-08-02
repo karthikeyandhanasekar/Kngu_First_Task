@@ -38,6 +38,17 @@ svg {
 
 .offerposter {
     border-left: groove;
-    border-color: brown;
+    border-color: #a52a2a;
+}
 
+.rounded-pill {
+    color: #ffffff;
+    background-color: rgb(255, 0, 0);
+    border: none;
+}
+
+.border-bottom {
+    border: none;
+    border-bottom: solid;
+    border-color: rgb(255, 0, 0);
 }
