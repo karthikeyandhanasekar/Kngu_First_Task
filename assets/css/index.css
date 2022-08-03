@@ -67,10 +67,14 @@ svg {
     width: 10%;
 }
 
-.fromblog {
+.fromblog, footer {
     background-color: rgba(209, 208, 208, 0.614);
 }
 
 .subscriblefield {
     margin: 0 15%;
+}
+
+footer>div>div>svg {
+    margin-right: 10%;
 }
