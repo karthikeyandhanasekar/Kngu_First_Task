@@ -52,8 +52,8 @@ svg {
     border-bottom: solid;
     border-color: rgb(255, 0, 0);
 }
-.postal
-{
+
+.postal {
     background-image: url('../images/flowerbg2.jpg');
     background-repeat: no-repeat;
     background-size: cover;
@@ -62,7 +62,15 @@ svg {
     text-align: justify;
 
 }
-.faceicon
-{
+
+.faceicon {
     width: 10%;
+}
+
+.fromblog {
+    background-color: rgba(209, 208, 208, 0.614);
+}
+
+.subscriblefield {
+    margin: 0 15%;
 }
